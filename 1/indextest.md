@@ -47,7 +47,9 @@ Rien de plus simple,
 ## Prise en main  (pas fait la mise en page)
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
-  ![ecran scratch](https://github.com/lezib/its-code-time/blob/bf0d0401466d54ea9d806e6b6aea3e033962c757/image/screen%20scratch.jpg)
+  ![ecran scratch](https://github.com/lezib/its-code-time/blob/bf0d0401466d54ea9d806e6b6aea3e033962c757/image/screen%20scratch.jpg)  
+![ecran scratch](/image/screen scratch.jpg)
+
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
 
