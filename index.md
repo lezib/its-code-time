@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-lien vers page 1 [ici](https://lezib.github.io/its-code-time/1/)
+lien vers page 1 [ici](https://lezib.github.io/its-code-time/1/indextest.html)
 
 
 You can use the [editor on GitHub](https://github.com/lezib/its-code-time/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
