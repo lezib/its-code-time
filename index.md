@@ -1,40 +1,23 @@
-## Welcome to GitHub Pages
+# Page d'acceuil
+Une petite intro à la programmation.  
+Fait par Mau.  
 
-lien vers page 1 [ici](https://lezib.github.io/its-code-time/1/indextest.html)
+## Sommaire : 
+>Scratch
+> 1.présentation de Scratch : [introduction à Scratch](https://lezib.github.io/its-code-time/1/indextest.html)
+> 2. merde a remplacer
+> 3. pareil
+>Python
+>1.intro a python
+>2.syntax
+>3.suite...
+  
 
 
-You can use the [editor on GitHub](https://github.com/lezib/its-code-time/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## PRÉSENTATION ET OBJECTIF
+Hello ! Bon pas besoin de me présenter je pense, si tu as cte doc c’est que tu me connais, je pense pas qu' elle va aller très loin... même si sa conception était très intéressante!  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dans cette documentation (enfin je sais même pas ce que c’est moi même) je vais t’expliquer pas à pas comment programmer et te faire aimer la programmation, je l'espère ~~car je me sens un peu seul~~…  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lezib/its-code-time/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> Ps : Je ne suis pas un pro heinnnnn, j’ai appris en autodidacte à vagabonder sur les forums et sur les documentations diverses et variées (au moment où j’écris cette doc ça va faire 1 an et demi que je programme). Donc ça ne sera pas un cours complet sur toute la programmation.  
+> Projet voltaire et moi ça fait genre 20-30 j'ai arrêté de compter donc s'il y a une petite coquille n'ésitez pas à la __signaler__ ~~et de vous foutre de ma gueule~~. 
