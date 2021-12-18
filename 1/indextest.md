@@ -47,7 +47,7 @@ Rien de plus simple,
 ## Prise en main  (pas fait la mise en page)
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
-  ![ecran scratch](/image/screen scratch.png)
+  ![ecran scratch](its-code-time/image/screen-scratch.png)
 
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
