@@ -1,6 +1,6 @@
 # Un peu de programmation...
 Une petite intro à la programmation.  
-Fait par Mau.  
+
 
 
 ## PRÉSENTATION ET OBJECTIF
@@ -30,7 +30,7 @@ Les avantages de Scratch : (eh oui!)
 4. Il a beau être simple mais il n’en est pas moins puissant ! (j’ai réussi à faire un poker et plein d'autres jeux) ( oui je me la pète et alors ?)  
 
 
-## Allez on est parti !
+### Allez on est parti !
 Assez parler passons à la pratique !  
 Pour faire du Scratch vous avez 2 solutions :   
 1. Aller sur le site de scratch [ici](https://scratch.mit.edu/projects/editor)   
@@ -47,27 +47,27 @@ Rien de plus simple,
 ## Prise en main  (pas fait la mise en page)
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
-L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :
-Les points de couleurs correspondent aux menus des blocs de commandes.
+![ecran scratch](image/screen scratch.jpg)
 
+L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
 
-La colonne d'après c’est ces mêmes blocs de commandes (ici en bleu) de ces mêmes menus.
-Le grand espace avec des pointillés c’est la zone de script, là où votre script/programme que tu auras fait de tes petites mimines sera.
+- Les points de couleurs correspondent aux menus des blocs de commandes.
 
+- La colonne d'après c’est ces mêmes blocs de commandes (ici en bleu) de ces mêmes menus.  
 
-L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est “la scène” c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.
+- Le grand espace avec des pointillés c’est la zone de script, là où votre script/programme que tu auras fait de tes petites mimines sera.
 
+-L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est “la scène” c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.  
 
-Le rectangle blanc en dessous de la scène c’est les infos utiles/basiques du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).
+-Le rectangle blanc en dessous de la scène c’est les infos utiles/basiques du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).  
 
+-En dessous des infos utiles se trouve le menu des lutins (on y reviendra plus tard).  
 
-En dessous des infos utiles se trouve le menu des lutins (on y reviendra plus tard).
+-Et pour finir, le menu du fond/arrière-plan/décors bref ce qu’il y a derrière les lutins (pareil).  
 
-
-Et pour finir, le menu du fond/arrière-plan/décors bref ce qu’il y a derrière les lutins (pareil).
-Il reste des onglets mais ils ne nous intéressent pas (c’est les onglets "costumes" et "sons" en haut à gauche)  
+-Il reste des onglets mais ils ne nous intéressent pas (c’est les onglets "costumes" et "sons" en haut à gauche)  
 
 >Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
 
 
-
+Fait par Mau.  
