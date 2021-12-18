@@ -48,7 +48,7 @@ Rien de plus simple,
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
 ![ecran scratch](https://github.com/lezib/its-code-time/blob/bf0d0401466d54ea9d806e6b6aea3e033962c757/image/screen%20scratch.png)  
-![ecran scratch](/image/screen scratch.png?raw=true)
+    ![ecran scratch](/image/screen scratch.png?raw=true)
 
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
