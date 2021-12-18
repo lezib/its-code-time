@@ -4,14 +4,15 @@ Fait par Mau.
 
 ## Sommaire :  
 >Scratch  
-> 1.présentation de Scratch : [introduction à Scratch](https://lezib.github.io/its-code-time/1/indextest.html)  
-> 2. merde a remplacer  
-> 3. pareil  
->   
+>1.présentation de Scratch : [introduction à Scratch](https://lezib.github.io/its-code-time/1/indextest.html)  
+>1. merde a remplacer  
+> 2. pareil  
+  
+
 >Python  
->1.intro a python  
->2.syntax  
->3.suite...  
+> 1.intro a python  
+> 1. syntax  
+> 2. suite...  
   
 
 
