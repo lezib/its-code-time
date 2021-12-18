@@ -3,10 +3,11 @@ Une petite intro à la programmation.
 Fait par Mau.  
 
 ## Sommaire :  
->Scratch
+>Scratch  
 > 1.présentation de Scratch : [introduction à Scratch](https://lezib.github.io/its-code-time/1/indextest.html)  
 > 2. merde a remplacer  
 > 3. pareil  
+>   
 >Python  
 >1.intro a python  
 >2.syntax  
