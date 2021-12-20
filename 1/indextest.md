@@ -48,7 +48,7 @@ Rien de plus simple,
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
 ![ecran scratch :1/images/screen-scratch.png](1/images/screen-scratch.png)  
-![ecran scratch :/images/screen-scratch.png](1/images/screen-scratch.png)
+![ecran scratch :/images/screen-scratch.png](/images/screen-scratch.png)
 
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
