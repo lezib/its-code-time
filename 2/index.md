@@ -24,4 +24,4 @@ Cet ordre, sur scratch (et python) est des plus simple, __de haut en bas__.
 
 
 [Page d'accueil](https://lezib.github.io/its-code-time/)  
-[Page précédente](https://lezib.github.io/its-code-time/1/index.html)    [Page suivante](https://lezib.github.io/its-code-time/3/index.html) 
+[Page précédente](https://lezib.github.io/its-code-time/1/index.html) -------- [Page suivante](https://lezib.github.io/its-code-time/3/index.html) 
