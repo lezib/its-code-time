@@ -47,10 +47,10 @@ Rien de plus simple,
 ## Prise en main  (pas fait la mise en page)
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
-![ecran scratch :1/images/screen-scratch.png](1/images/screen-scratch.png)  
-![ecran scratch :/images/screen-scratch.png](/images/screen-scratch.png)  
+![ecran scratch :1/images/screen-scratch.png](1/images/ecran-scratch.png)  
+![ecran scratch :/images/screen-scratch.png](/images/ecran-scratch.png)  
   
-![ecran scratch :/images/screen-scratch.jpg](/images/screen-scratch.jpg)
+![ecran scratch :/images/screen-scratch.jpg](/images/screen scratch.jpg)
 
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
