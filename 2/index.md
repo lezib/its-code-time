@@ -21,3 +21,7 @@ Cet ordre, sur scratch (et python) est des plus simple, __de haut en bas__.
 ![image d'un script scratch]()
 
 > on voit bien que c'est de haut en bas 
+
+
+[Page d'accueil](https://lezib.github.io/its-code-time/)  
+[Page précédente](https://lezib.github.io/its-code-time/1/index.html)    [Page suivante](https://lezib.github.io/its-code-time/3/index.html) 
