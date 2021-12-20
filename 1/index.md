@@ -69,5 +69,7 @@ L’écran est divisé en plusieurs parties voici leur utilité de gauche à dro
 
 > Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
 
+[Page d'acueil](https://lezib.github.io/its-code-time/)
+[Page suivante](https://lezib.github.io/its-code-time/2/index.html)  
 
 Fait par Mau.  
