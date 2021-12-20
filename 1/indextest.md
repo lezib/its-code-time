@@ -49,26 +49,25 @@ Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ![ecran scratch :/images/screen-scratch.png](/images/ecran-scratch.png)  
 
-
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
 
-- Les points de couleurs correspondent aux menus des blocs de commandes.
+>- Les points de couleurs correspondent aux menus des blocs de commandes.
 
-- La colonne d'après c’est ces mêmes blocs de commandes (ici en bleu) de ces mêmes menus.  
+>- La colonne d'après c’est ces mêmes blocs de commandes (ici en bleu) de ces mêmes menus.  
 
-- Le grand espace avec des pointillés c’est la zone de script, là où votre script/programme que tu auras fait de tes petites mimines sera.
+>- Le grand espace avec des pointillés c’est la zone de script, là où votre script/programme que tu auras fait de tes petites mimines sera.
 
--L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est “la scène” c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.  
+>- L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est “la scène” c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.  
 
--Le rectangle blanc en dessous de la scène c’est les infos utiles/basiques du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).  
+>- Le rectangle blanc en dessous de la scène c’est les infos utiles/basiques du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).  
 
--En dessous des infos utiles se trouve le menu des lutins (on y reviendra plus tard).  
+>- En dessous des infos utiles se trouve le menu des lutins (on y reviendra plus tard).  
 
--Et pour finir, le menu du fond/arrière-plan/décors bref ce qu’il y a derrière les lutins (pareil).  
+>- Et pour finir, le menu du fond/arrière-plan/décors bref ce qu’il y a derrière les lutins (pareil).  
 
--Il reste des onglets mais ils ne nous intéressent pas (c’est les onglets "costumes" et "sons" en haut à gauche)  
+>- Il reste des onglets mais ils ne nous intéressent pas (c’est les onglets "costumes" et "sons" en haut à gauche)  
 
->Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
+> Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
 
 
 Fait par Mau.  
