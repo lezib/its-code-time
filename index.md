@@ -4,9 +4,9 @@ Fait par Mau.
 
 ## Sommaire :  
 >Scratch  
->1.présentation de Scratch : [introduction à Scratch](https://lezib.github.io/its-code-time/1/indextest.html)  
->1. merde a remplacer  
-> 2. pareil  
+>1. [présentation de Scratch](https://lezib.github.io/its-code-time/1/index.html)  
+>2. [les bases pour faire du scratch](https://lezib.github.io/its-code-time/2/index.html)   
+>3. pareil  
   
 
 >Python  
