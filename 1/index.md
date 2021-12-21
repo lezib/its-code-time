@@ -1,10 +1,17 @@
 [Accueil](https://lezib.github.io/its-code-time/)  
 [Page suivante: 2.Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
 
+Sommaire :
+> 1. [Les outils](https://lezib.github.io/its-code-time/1/index.html#Les-outils)  
+> 2. [Le commencement](https://lezib.github.io/its-code-time/1/index.html#Le-Commencement)  
+> 3. [Les Support](https://lezib.github.io/its-code-time/1/index.html#Les-supports)  
+>   - [Installation](https://lezib.github.io/its-code-time/1/index.html#installation)  
+> 4. [Prise en main](https://lezib.github.io/its-code-time/1/index.html#prise-en-main)  
+
 # Un peu de programmation...
 Une _petite_ intro à la programmation.  
 
-## Les supports 
+## Les outils 
 Pour ce cours il te faudra quelques outils :  
 1. Un __pc__, fixe ou portable.  
 2. Un poil de connexion internet.  
@@ -32,7 +39,7 @@ Les __avantages__ de Scratch : (eh oui!)
 3. Cette simplicité permet d’__apprendre plus facilement une logique et une manière de penser__ utile pour les autres langages.  
 4. Il a beau être simple mais il n’en est pas moins _puissant_ ! (j’ai réussi à faire un poker et plein d'autres jeux) ( oui je me la pète et alors ?)  
 
-### Allez on est parti !  
+### Les supports 
 
 Assez parler passons à la pratique !  
 Pour faire du Scratch vous avez 2 solutions :   
