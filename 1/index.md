@@ -2,11 +2,11 @@
 [Page suivante: 2.Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
 
 Sommaire :
-> 1.[Les outils](https://lezib.github.io/its-code-time/1/index.html#les-outils)  
-> 2.[Le commencement](https://lezib.github.io/its-code-time/1/index.html#le-commencement)  
-> 3.[Les Support](https://lezib.github.io/its-code-time/1/index.html#Lls-supports)  
+> 1. [Les outils](https://lezib.github.io/its-code-time/1/index.html#les-outils)  
+> 2. [Le commencement](https://lezib.github.io/its-code-time/1/index.html#le-commencement)  
+> 3. [Les Support](https://lezib.github.io/its-code-time/1/index.html#les-supports)  
 >   - [Installation](https://lezib.github.io/its-code-time/1/index.html#installation)  
-> 4.[Prise en main](https://lezib.github.io/its-code-time/1/index.html#prise-en-main)  
+> 4. [Prise en main](https://lezib.github.io/its-code-time/1/index.html#prise-en-main)  
 
 # Un peu de programmation...
 Une _petite_ intro à la programmation.  
