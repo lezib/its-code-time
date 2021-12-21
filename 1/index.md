@@ -1,8 +1,8 @@
-# Un peu de programmation...
-Une petite intro à la programmation.  
-
 [Page d'accueil](https://lezib.github.io/its-code-time/)  
 [Page suivante](https://lezib.github.io/its-code-time/2/index.html)  
+
+# Un peu de programmation...
+Une petite intro à la programmation.  
 
 ## Les supports 
 Pour ce cours il te faudra quelques outils :  
