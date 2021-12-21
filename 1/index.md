@@ -1,5 +1,5 @@
 [Accueil](https://lezib.github.io/its-code-time/)  
-[Page suivante: 2.Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
+[Page suivante: 2) Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
 
 Sommaire :
 > 1. [Les outils](https://lezib.github.io/its-code-time/1/index.html#les-outils)  
