@@ -81,6 +81,6 @@ L’écran est divisé en plusieurs parties voici leur utilité de gauche à dro
 > Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
 
 [Page d'accueil](https://lezib.github.io/its-code-time/)  
-[Page suivante: 2.Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
+[Page suivante: 2) Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
 
 Fait par Mau.  
