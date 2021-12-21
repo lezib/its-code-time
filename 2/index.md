@@ -1,3 +1,6 @@
+[Page d'accueil](https://lezib.github.io/its-code-time/)  
+[Page précédente](https://lezib.github.io/its-code-time/1/index.html) -------- [Page suivante](https://lezib.github.io/its-code-time/3/index.html) 
+
 # Les bases de scratch  
 
 Cette page va vous expliquer comment les blocs Scratch marchent, la base de la base quoi...     
