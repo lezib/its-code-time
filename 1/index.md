@@ -17,6 +17,7 @@ Pour ce cours il te faudra quelques outils :
 2. Un poil de connexion internet.  
 3. Un __compte discord__ pour récupérer des fichiers que j’aurais mis sur un serveur.  
 4. Le liens vers le discord est [juste ici](https://discord.gg/uWEQXdVm).  
+  
 Avec ça on va pouvoir faire des trucs !  
 
 ## Le Commencement 
