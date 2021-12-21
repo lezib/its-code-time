@@ -2,6 +2,8 @@
 Une petite intro à la programmation.  
 Fait par Mau.  
 
+# UN SITE EN TRAVAUX
+
 ## Sommaire :  
 >Scratch  
 >1. [présentation de Scratch](https://lezib.github.io/its-code-time/1/index.html)  
