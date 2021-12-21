@@ -20,7 +20,7 @@ donc non, il n’y aura pas de python maintenant si tu es un complet débutant,
 > Si tu connais un peu la programmation et son raisonnnement je t'invite à passer la partie scratch pour passer directement à python.  
 
 Nous on va commencer par du Scratch ! Alors oui c’est le même que celui des profs de maths au collège, mais ne partez pas tout de suite !  
-C’est un langage de programmation dit _graphique_ (à gauche) alors que python est un langage de programmation dit _interprété_ (à droite).  
+C’est un langage de programmation dit _graphique_ (à droite) alors que python est un langage de programmation dit _interprété_ (à gauche).  
 
 ![script python aperçu](/images/apercu-python.png) ____ ![bloc scratch apreçu](/images/aprecu-scratch.png)
 
@@ -54,19 +54,19 @@ Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 L’écran est divisé en plusieurs parties voici leur utilité de gauche à droite :  
 
-1. Les points de couleurs correspondent aux menus des blocs de commandes.
+1. Les points de couleurs correspondent aux __menus des blocs de commandes__.
 
-2. La colonne d'après c’est ces mêmes blocs de commandes (ici en bleu) de ces mêmes menus.  
+2. La colonne d'après c’est ces mêmes __blocs de commandes__ (ici en bleu) de ces mêmes menus.  
 
-3. Le grand espace avec des pointillés c’est la zone de script, là où votre script/programme que tu auras fait de tes petites mimines sera.
+3. Le grand espace avec des pointillés c’est la __zone de script__, là où votre script/programme que tu auras fait de tes petites mimines sera.
 
-4. L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est “la scène” c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.  
+4. L’endroit totalement blanc avec juste le logo scratch (a partir de maintenant on va le nommer “le chat” car sinon on s’en sort pas) c’est __“la scène”__ c’est là que tes icones vont bouger, dessiner, bref ce que tu veux qu’ils fassent.  
 
-5. Le rectangle blanc en dessous de la scène c’est les infos utiles/basiques du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).  
+5. Le rectangle blanc en dessous de la scène c’est les __infos utiles/basiques__ du lutin sélectionné (= nom, coordonées,état,taille,direction/facing).  
 
-6. En dessous des infos utiles se trouve le menu des lutins (on y reviendra plus tard).  
+6. En dessous des infos utiles se trouve __le menu des lutins__ (on y reviendra plus tard).  
 
-7. Et pour finir, le menu du fond/arrière-plan/décors bref ce qu’il y a derrière les lutins (pareil).  
+7. Et pour finir, le menu du __fond/arrière-plan/décors__ bref ce qu’il y a derrière les lutins (pareil).  
 
 8. Il reste des onglets mais ils ne nous intéressent pas (c’est les onglets "costumes" et "sons" en haut à gauche)  
 
