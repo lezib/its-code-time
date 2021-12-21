@@ -1,10 +1,10 @@
 [Page d'accueil](https://lezib.github.io/its-code-time/)  
-[Page précédente](https://lezib.github.io/its-code-time/1/index.html) -------- [Page suivante](https://lezib.github.io/its-code-time/3/index.html)  
+[Page précédente : 1) Présentation de Scratch](https://lezib.github.io/its-code-time/1/index.html) -------- [Page suivante](https://lezib.github.io/its-code-time/3/index.html)  
 
 # Sommaire 
-> 1. [petit point vocabulaire]()  
-> 2. [Les types de blocs]()  
-> 3. []()  
+> 1. [petit point vocabulaire](https://lezib.github.io/its-code-time/2/index.html#petit-point-vocabulaire)  
+> 2. [Les types de blocs](https://lezib.github.io/its-code-time/2/index.html#les-types-de-blocs)  
+> 3. [un sens de lecture](https://lezib.github.io/its-code-time/2/index.html#un-sens-de-lecture)  
 
 # Les bases de scratch  
 
@@ -27,7 +27,7 @@ La scène, il en existe qu'une seule, est un lutins avec moins d'actions : elle 
 
 > La scène est aussi insupprimable ce qui évite toute les fausses manip' lors de gestions des lutins comme supprimer le lutins principal (c'est du vécu).
 
-## Les type de blocs  
+## Les types de blocs  
 
 Il existe plusieurs type de blocs :
 - certain servent à faire une action, celle écrite sur le bloc  
@@ -49,15 +49,15 @@ je crois que j'ai tout listé: chaques type possède sa propre forme et les voic
 > ▲ ça c'est une ___boucle___, elle répéte le script qu'elle enveloppe.  
 
 ![apercu operateur](/images/apercu-operateur.jpg)  ![aperçu de variable](/images/apercu-variable.jpg)  
-> ▲ ce bloc renvoi une valeur que ça soit une chaine de caractère(=un mot) ou un chiffre (=un chiffre...)
-> certains servent à faire des opération, c'est un ___opérateur___,  
-> d'autre représente juste une variable on appelle donc ça une __variable__.  
+> ▲ cette forme de bloc renvoi une valeur que ça soit une chaine de caractère(=un mot) ou un chiffre (=un chiffre...)
+> certains servent à faire des opération, c'est un ___opérateur___ (à gauche),  
+> d'autre représente juste une variable on appelle donc ça une __variable__(à droite).  
 >> et j'ai menti c'est pas un bloc à proprement parler :P j'explique ça plus loin.  
 
 ![aperçu condition](/images/apercu-condition.jpg)  
 > ▲ ça c'est une __condition__, qui renvoi "true" si elle est remplie et à l'inverse false si elle n'est pas satisfaite.
 
-## L'ordre  
+## Un sens de lecture  
 
 Dans tout les languages, sauf certains mais osef, les instructions sont éxécuter dans un certain ordre cet ordre est très important, comme dans une recette :  
 - Avancer de 5 pas    
