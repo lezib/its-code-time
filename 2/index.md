@@ -23,9 +23,9 @@ Pour que ce petit cour soit conpréhensible on va faire un petit point vocabulai
 
 Les lutins c'est les petits personnages, telle que le chat, et plein d'autre, c'est les entités qui sont sur la scène.  
 La scène, il en existe qu'une seule, est un lutins avec moins d'actions : elle ne pas bouger etc... 
-> La scène fait office de chef d'orchestre, tout commence ici, c'est ici qu'on prend les décisions en fonction des actions de l'utilisateur.
+> La scène __fait office de chef d'orchestre__, tout commence ici, c'est ici qu'on prend les décisions en fonction des actions de l'utilisateur.
 
-> La scène est aussi insupprimable ce qui évite toute les fausses manip' lors de gestions des lutins comme supprimer le lutins principal (c'est du vécu).
+> La scène est aussi __insupprimable__ ce qui évite toute les fausses manip' lors de gestions des lutins comme _supprimer le lutins principal_ (c'est du vécu).
 
 ## Les types de blocs  
 
