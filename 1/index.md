@@ -12,7 +12,7 @@ Pour ce cours il te faudra quelques outils :
 4. Le liens vers le discord est [ici](https://discord.gg/uWEQXdVm).  
 Avec ça on va pouvoir faire des trucs !  
 
-## Le Commencement (il manque les images)
+## Le Commencement 
 Que ce soit pour la programmation ou autre: pour aller loin faut commencer proche, donc non, il n’y aura pas de python maintenant si vous êtes de complets débutants.  
 On va commencer par du Scratch ! Alors oui c’est le même que celui des profs de maths au collège, mais ne partez pas tout de suite ! C’est un langage de programmation dit graphique (à gauche) alors que python est un langage de programmation dit interprété (à droite). Je précise que j’ai trouvé ces deux images sur google et qu'elles ne reflètent pas du tout ce qu’on va faire dans ce cours.  
 
@@ -37,7 +37,7 @@ Rien de plus simple,
 1. Vas sur le site de scratch ci-contre puis télécharges le fichier pour ton OS (windows, linux, mac).  
 2. Dans ton explorateur de fichiers lances ce même fichier .exe et suis les instructions.  
 
-## Prise en main  (pas fait la mise en page)
+### Prise en main
 Te voila sur ce ✨bel✨ écran (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  
 
 ![ecran scratch :/images/screen-scratch.png](/images/ecran-scratch.png)  
