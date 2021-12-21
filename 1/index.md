@@ -1,40 +1,50 @@
-[Page d'accueil](https://lezib.github.io/its-code-time/)  
+[Accueil](https://lezib.github.io/its-code-time/)  
 [Page suivante](https://lezib.github.io/its-code-time/2/index.html)  
 
 # Un peu de programmation...
-Une petite intro à la programmation.  
+Une _petite_ intro à la programmation.  
 
 ## Les supports 
 Pour ce cours il te faudra quelques outils :  
-1. Un pc, fixe ou portable.  
+1. Un __pc__, fixe ou portable.  
 2. Un poil de connexion internet.  
-3. Un compte discord pour récupérer des fichiers que j’aurais mis sur un serveur.  
-4. Le liens vers le discord est [ici](https://discord.gg/uWEQXdVm).  
+3. Un __compte discord__ pour récupérer des fichiers que j’aurais mis sur un serveur.  
+4. Le liens vers le discord est [juste ici](https://discord.gg/uWEQXdVm).  
 Avec ça on va pouvoir faire des trucs !  
 
 ## Le Commencement 
-Que ce soit pour la programmation ou autre: pour aller loin faut commencer proche, donc non, il n’y aura pas de python maintenant si vous êtes de complets débutants.  
-On va commencer par du Scratch ! Alors oui c’est le même que celui des profs de maths au collège, mais ne partez pas tout de suite ! C’est un langage de programmation dit graphique (à gauche) alors que python est un langage de programmation dit interprété (à droite). Je précise que j’ai trouvé ces deux images sur google et qu'elles ne reflètent pas du tout ce qu’on va faire dans ce cours.  
 
-Les avantages de Scratch : (eh oui!)  
-1. C’est un langage simple que ce soit dans son installation que dans son apprentissage.  
-2. Il est très simple d’utilisation, empiler des blocs dans le bon ordre et c’est bon !  
-3. Cette simplicité permet d’apprendre plus facilement une logique et une manière de penser utile pour les autres langages.  
-4. Il a beau être simple mais il n’en est pas moins puissant ! (j’ai réussi à faire un poker et plein d'autres jeux) ( oui je me la pète et alors ?)  
+Que ce soit pour la programmation ou autre: pour aller loin faut commencer proche,  
+donc non, il n’y aura pas de python maintenant si tu es un complet débutant,  
 
+> Si tu connais un peu la programmation et son raisonnnement je t'invite à passer la partie scratch pour passer directement à python.  
 
-### Allez on est parti !
+Nous on va commencer par du Scratch ! Alors oui c’est le même que celui des profs de maths au collège, mais ne partez pas tout de suite !  
+C’est un langage de programmation dit _graphique_ (à gauche) alors que python est un langage de programmation dit _interprété_ (à droite).  
+
+![script python aperçu](/images/apercu-python.png) ____ ![bloc scratch apreçu](/images/aprecu-scratch.png)
+
+> Je précise que j’ai trouvé ces deux images sur google et qu'elles ne reflètent pas du tout ce qu’on va faire dans ce cours.  
+
+Les __avantages__ de Scratch : (eh oui!)  
+1. C’est un langage __simple__ que ce soit dans son installation que dans son apprentissage.  
+2. Il est très __simple d’utilisation__, empiler des blocs dans le bon ordre et c’est bon !  
+3. Cette simplicité permet d’__apprendre plus facilement une logique et une manière de penser__ utile pour les autres langages.  
+4. Il a beau être simple mais il n’en est pas moins _puissant_ ! (j’ai réussi à faire un poker et plein d'autres jeux) ( oui je me la pète et alors ?)  
+
+### Allez on est parti !  
+
 Assez parler passons à la pratique !  
 Pour faire du Scratch vous avez 2 solutions :   
-1. Aller sur le site de scratch [ici](https://scratch.mit.edu/projects/editor)   
+1. Aller sur le [site de scratch](https://scratch.mit.edu/projects/editor)   
 2. Installer Scratch sur votre machine.  
 
-> Perso je préfère installer le logiciel, pour sauvegarder et importer des fichier c’est, à mon sens, plus simple c'est d'ailleur la version que j’utiliserais pour ce 
-cours.  
+> Perso je préfère installer le logiciel, pour sauvegarder et importer des fichier c’est, à mon sens, plus simple c'est d'ailleur la version que j’utiliserais pour ce cours.  
 
-### installation
+### installation  
+
 Rien de plus simple,  
-1. Vas sur le site de scratch ci-contre puis télécharges le fichier pour ton OS (windows, linux, mac).  
+1. Vas sur le site de scratch ci-contre puis télécharges le fichier pour ton OS (windows, linux, mac) [Scratch download](https://scratch.mit.edu/download).   
 2. Dans ton explorateur de fichiers lances ce même fichier .exe et suis les instructions.  
 
 ### Prise en main
@@ -63,6 +73,6 @@ L’écran est divisé en plusieurs parties voici leur utilité de gauche à dro
 > Ps : si vous voulez changer la langue, ça se passe au niveau du globe en haut à gauche à côté de “fichier”.
 
 [Page d'accueil](https://lezib.github.io/its-code-time/)  
-[Page suivante](https://lezib.github.io/its-code-time/2/index.html)  
+[Page suivante: 2.Les bases de Scratch](https://lezib.github.io/its-code-time/2/index.html)  
 
 Fait par Mau.  
